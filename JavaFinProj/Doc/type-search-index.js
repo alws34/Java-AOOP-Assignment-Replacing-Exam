@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"ClubAbstractEntity.ButtonHandler"},{"p":"<Unnamed>","l":"ClubAbstractEntity"},{"p":"<Unnamed>","l":"NightClubMgmtApp"},{"p":"<Unnamed>","l":"Person"},{"p":"<Unnamed>","l":"Soldier"},{"p":"<Unnamed>","l":"Student"}];updateSearchResults();

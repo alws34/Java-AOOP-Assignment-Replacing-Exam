@@ -332,15 +332,13 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
-*.ini
-*.json
-*.docx
-*.pdf
-*.html
-*.css
-*.js
-JavaFinProj_Alon_Weiss_Ofek_Levi/Doc/element-list
-JavaFinProj_Alon_Weiss_Ofek_Levi/Doc/package-list
-*.png
 *.class
 JavaFinProj_GuyYaron_IdanHadad_100.zip
+JavaFinProj.zip
+JavaFinProj.docx
+*.ini
+.vscode/launch.json
+.vscode/settings.json
+Java_ExamReplaceAssignment_V4.pdf
+JavaFinProj.pdf
+JavaFinProj/Src/.vscode/settings.json
