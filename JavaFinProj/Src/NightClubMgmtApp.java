@@ -14,7 +14,6 @@ import java.io.*;
  * 
  * This class also implements an ActionListener
  * 
- * @author Alon Weiss 208200469 and Ofek Levi 207010125
  */
 public class NightClubMgmtApp extends JFrame implements ActionListener {
     // Instance Variables
